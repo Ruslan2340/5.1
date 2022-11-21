@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">5.1</string>
+    <string name="fullname">Fullname</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="register">register</string>
+    <string name="tvRegInfo">Already registred!Login Me.</string>
+
+</resources>
